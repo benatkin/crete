@@ -36,8 +36,8 @@ color: #111;
 }
 ```
 
-It returns rules with a newline at the end, so the returned CSS
-can be joined together without newlines, as below, without
+It returns rulesets with a newline at the end, so the returned CSS
+can be joined together without newlines, as below:
 
 ``` javascript
 var css = [

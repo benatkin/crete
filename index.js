@@ -3,7 +3,7 @@ function crete(ruleset) {
   var end = "}\n"
   Object.keys(ruleset).forEach(function(key) {
     if (['sel'].indexOf(key) !== -1) return;
-    start += key + ': ' + ruleset[key] + "\n"
+    start += key + ': ' + ruleset[key] + ';' + "\n"
   })
   return start + end
 }

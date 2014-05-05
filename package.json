@@ -1,0 +1,23 @@
+{
+  "name": "crete",
+  "version": "0.0.1",
+  "description": "creates a CSS ruleset from a json object",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benatkin/crete.git"
+  },
+  "keywords": [
+    "css",
+    "browser"
+  ],
+  "author": "Benjamin Atkin <ben@benatkin.com> (http://benatkin.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benatkin/crete/issues"
+  },
+  "homepage": "https://github.com/benatkin/crete"
+}

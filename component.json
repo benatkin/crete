@@ -1,0 +1,14 @@
+{
+  "name": "crete",
+  "repo": "benatkin/crete",
+  "description": "creates a CSS ruleset from a json object",
+  "version": "0.0.4",
+  "keywords": ['css'],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
